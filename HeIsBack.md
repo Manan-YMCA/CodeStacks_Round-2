@@ -1,4 +1,4 @@
-## He is Back
+# He is Back
 Look who’s back
 
 It’s time for an another logic buster Baaghi 4. In this aliens take Tiger’s cow so he destroyes their planet and save his cow while making pose. Then in order to take their revenge the aliens decrales a war against him. But tiger is busy milking the cow(as it’s been a long time he did so) so he asks for your help you being Ramgadh’s best hacker cannot let your friend down.
@@ -19,19 +19,19 @@ bitwise xor of X[i] and X[i+1] for 1<=i<N
 
 So you have to maximize the algaebraic sum of his attacking power for all N seconds by rearranging some of the strings.
 
-Constraints :
+## Constraints :
 
 1≤N≤15
 
 1≤|Str[i]|≤1000
 
-Input
+## Input
 
 First line contains N .
 Next line follows N integers,Str[i]..
 
-Output
+## Output
 
 Print the required answer as explained above.
 
-Note : The war has to be fought for exactly N seconds and each character is in lower case.
+## Note : The war has to be fought for exactly N seconds and each character is in lower case.
