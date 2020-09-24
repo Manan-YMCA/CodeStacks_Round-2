@@ -1,4 +1,4 @@
-## Cemented String
+# Cemented String
 Umesh is a construction worker who does mathematics for increasing his efficiency. He is working on a site and has N buckets of cement-lined up with different characters ( a - z ) marked upon them. He has a strict command from senior that he cannot change the order of the buckets.
 
 Before starting his work, he has been given a string S of length N in which the character at position i ( 1 <= i <= N ) gives us the mark on the ith bucket.
@@ -12,18 +12,18 @@ In every round, the cost accumulates. Find the final cost incurred by Umesh whil
 
 
 
-Input Format
+## Input Format
 The first line consists of an integer T denoting the number of test cases.
 
 The following T lines consist of an integer N denoting the number of baskets.
 
 The next line contains a string S of length N where S[i] ( 1 <= i <= N ) denotes the mark on the ith bucket.
 
-Output Format
+## Output Format
 
 Print the accumulation cost for each test case, separated by a new line.
 
-Constraints
+## Constraints
 
 1 <=  T , N <= 105.
 
