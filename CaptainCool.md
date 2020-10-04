@@ -10,12 +10,12 @@ Then Q lines proceed to contain three A, B, C integers if, A is 1, then B and C 
 For each query of type 1, print ‘’1” if the range is in AP if the range is not in AP then 0. Print your answer per line for each query of type 1.
 
 ## Constraints
-    •    1<= n <=100000
-    •    1<= Q <=100000
-    •    0<= F[i] <= 10^9
-    •    0<= A <=1
-    •    1<= B <= n
-    •    If , A=1 , 1<= C <= n , B <= C
-    •    If, A=0 , 1<= C <= 20000
+* 1<= n <=100000
+* 1<= Q <=100000
+* 0<= F[i] <= 10^9
+* 0<= A <=1
+* 1<= B <= n
+* If , A=1 , 1<= C <= n , B <= C
+* If, A=0 , 1<= C <= 20000
 
 
